@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-social-auth](backend/modules/social-auth)
 - [screen-privacy-policy](screens/privacy-policy)
 - [screen-appointment-listing](screens/appointment-listing)
+- [screen-account-settings](screens/account-settings)
 
 # Getting started: Frontend
 
