@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-order-checkout](screens/order-checkout)
 - [screen-login](screens/login)
 - [react-native-social-login](modules/social-login)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
