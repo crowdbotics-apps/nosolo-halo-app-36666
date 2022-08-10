@@ -19,6 +19,7 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
+    "@screens/login": "file:./screens/login/",
     "@screens/order-checkout": "file:./screens/order-checkout/",
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-summary": "file:./screens/order-summary/",
