@@ -19,6 +19,7 @@
     "@screens/about-the-app": "file:./screens/about-the-app/",
     "@screens/account-settings": "file:./screens/account-settings/",
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
+    "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/signup": "file:./screens/signup/",
