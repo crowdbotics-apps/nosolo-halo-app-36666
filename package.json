@@ -21,6 +21,7 @@
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
     "@screens/privacy-policy": "file:./screens/privacy-policy/",
+    "@screens/signup": "file:./screens/signup/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
