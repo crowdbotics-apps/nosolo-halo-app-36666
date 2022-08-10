@@ -23,7 +23,6 @@
     "@screens/order-complete": "file:./screens/order-complete/",
     "@screens/order-summary": "file:./screens/order-summary/",
     "@screens/order-waiting-list": "file:./screens/order-waiting-list/",
-    "@screens/privacy-policy": "file:./screens/privacy-policy/",
     "@screens/signup": "file:./screens/signup/",
     "axios": "^0.21.1",
     "react": "17.0.1",
