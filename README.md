@@ -60,7 +60,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [django-social-auth](backend/modules/social-auth)
 - [screen-privacy-policy](screens/privacy-policy)
-- [screen-appointment-listing](screens/appointment-listing)
 - [screen-account-settings](screens/account-settings)
 - [screen-store-order-waiting-list](screens/order-waiting-list)
 - [screen-signup](screens/signup)
