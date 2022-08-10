@@ -63,6 +63,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-privacy-policy](screens/privacy-policy)
 - [screen-appointment-listing](screens/appointment-listing)
 - [screen-account-settings](screens/account-settings)
+- [screen-store-order-waiting-list](screens/order-waiting-list)
 
 # Getting started: Frontend
 

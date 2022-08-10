@@ -1230,10 +1230,13 @@
 "@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
-"@screens/account-settings@file:./screens/account-settings/":
+"@screens/account-settings@file:./screens/account-settings":
   version "1.0.0"
 
 "@screens/appointment-listing@file:./screens/appointment-listing":
+  version "1.0.0"
+
+"@screens/order-waiting-list@file:./screens/order-waiting-list/":
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":
