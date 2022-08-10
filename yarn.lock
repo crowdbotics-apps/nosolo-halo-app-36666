@@ -1236,7 +1236,10 @@
 "@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
-"@screens/order-summary@file:./screens/order-summary/":
+"@screens/order-complete@file:./screens/order-complete/":
+  version "1.0.0"
+
+"@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
 "@screens/order-waiting-list@file:./screens/order-waiting-list":

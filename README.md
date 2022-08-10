@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-order-waiting-list](screens/order-waiting-list)
 - [screen-signup](screens/signup)
 - [screen-order-summary](screens/order-summary)
+- [screen-order-complete](screens/order-complete)
 
 # Getting started: Frontend
 
